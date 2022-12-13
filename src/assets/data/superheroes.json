@@ -1,0 +1,142 @@
+[
+    {
+        "superhero" : " Batman " ,
+        "publisher" : " DC Comics " ,
+        "alter_ego" : " Bruce Wayne " ,
+        "first_appearance" : " Tebeos de detectives #27 " ,
+        "characters": " Bruce Wayne "
+    },
+    {
+        "superhero" : " superhombre " ,
+        "publisher" : " DC Comics " ,
+        "alter_ego" : " Kal-El " ,
+        "first_appearance" : " Cómics de acción n.º 1 " ,
+        "characters" : " Kal-El "
+    },
+    {
+        "superhero" : " Flash " ,
+        "publisher"  : " DC Comics " ,
+        "alter_ego" : " Jay Garrick " ,
+        "first_appearance" : " Flash Comics #1 " ,
+        "characters" : " Jay Garrick, Barry Allen, Wally West, Bart Allen "
+    },
+    {
+        "superhero" : " Linterna Verde " ,
+        "publisher"  : " DC Comics " ,
+        "alter_ego" : " Alan Scott " ,
+        "first_appearance" : " All-American Comics #16 " ,
+        "characters" : " Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz "
+    },
+    {
+        "superhero" : " flecha verde " ,
+        "publisher"  : " DC Comics " ,
+        "alter_ego" : " Oliver Queen " ,
+        "first_appearance" : " Cómics más divertidos #73 " ,
+        "characters" : " Oliver Queen "
+    },
+    {
+        "superhero" : " Mujer Maravilla " ,
+        "publisher"  : " DC Comics " ,
+        "alter_ego" : " Princesa Diana " ,
+        "first_appearance" : " All Star Comics #8 " ,
+        "characters" : " La princesa Diana "
+    },
+    {
+        "superhero": " Martian Manhunter " ,
+        "publisher"  : " DC Comics " ,
+        "alter_ego" : " J'onn J'onzz " ,
+        "first_appearance" : " Tebeos de detectives n.º 225 " ,
+        "characters" : " Martian Manhunter "
+    },
+    {
+        "superhero" : " Robin/Ala Nocturna " ,
+        "publisher" : " DC Comics " ,
+        "alter_ego" : " Dick Grayson " ,
+        "first_appearance" : " Tebeos de detectives #38 " ,
+        "characters" : " Dick Grayson "
+    },
+    {
+        "superhero" : " escarabajo azul " ,
+        "publisher"  : " DC Comics " ,
+        "alter_ego" : " Dan Garret " ,
+        "first_appearance" : " Cómics de Mystery Men #1 " ,
+        "characters" : " Dan Garret, Ted Kord, Jaime Reyes "
+    },
+    {
+        "superhero" : " Canario Negro " ,
+        "publisher" : " DC Comics " ,
+        "alter_ego" : " Dina Drake " ,
+        "first_appearance" : " Flash Comics #86 " ,
+        "characters" : " Dinah Drake, Dinah Lance "
+    },
+    {
+        "superhero" : " Hombre Araña " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Peter Parker " ,
+        "first_appearance" : " Fantasía increíble #15 " ,
+        "characters" : " Peter Parker "
+    },
+    {
+        "superhero": " Capitán América " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Steve Rogers " ,
+        "first_appearance" : " Capitán América Cómics #1 " ,
+        "characters": " Steve Rogers "
+    },
+    {
+        "superhero" : " Hombre de hierro " ,
+        "publisher" : " Marvel Comics " ,
+        "alter_ego" : " Tony Stark " ,
+        "first_appearance" : " Cuentos de suspenso #39 " ,
+        "characters" : " Tony Stark "
+    },
+    {
+        "superhero" : " Thor " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Thor Odinson " ,
+        "first_appearance" : " Viaje a Myster #83 " ,
+        "characters" : " Thor Odinson "
+    },
+    {
+        "superhero" : " Hulk " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Bruce Banner " ,
+        "first_appearance" : " El Increíble Hulk #1 " ,
+        "characters" : " Bruce Banner "
+    },
+    {
+        "superhero" : " Lobezno " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " James Howlett " ,
+        "first_appearance" : " El Increíble Hulk #180 " ,
+        "characters" : " James Howlett "
+    },
+    {
+        "superhero" : " Temerario " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Matthew Michael Murdock " ,
+        "first_appearance" : " Temerario #1 " ,
+        "characters" : " Matthew Michael Murdock "
+    },
+    {
+        "superhero" : " Ojo de Halcón " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Clinton Francis Barton " ,
+        "first_appearance" : " Cuentos de suspenso #57 " ,
+        "characters" : " Clinton Francis Barton "
+    },
+    {
+        "superhero" : " cíclope " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Scott Summers " ,
+        "primera_aparición" : " X-Men #1 " ,
+        "characters" : " Scott Summers "
+    },
+    {
+        "superhero" : " Surfista plateado " ,
+        "publisher"  : " Marvel Comics " ,
+        "alter_ego" : " Norrin Radd " ,
+        "first_appearance" : " Los Cuatro Fantásticos #48 " ,
+        "characters" : " Norrin Radd "
+    }
+]
